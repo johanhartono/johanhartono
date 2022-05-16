@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johanhartono
 - 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning react js and react native
-- 💞️ I’m looking to collaborate on react js o react native project for free(to learn experience from senior developer)
+- 🌱 I’m currently learning react js,react native and flutter
+- 💞️ I’m looking to collaborate on react js or react native or flutter project for free(to learn experience from senior developer)
 - 📫 How to reach me johanhartono@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johanhartono
 - 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning vue js,nuxt js, next js, react js,react native and flutter
+- 🌱 I’m currently learning vue js,nuxt js, next js, react js,react native,Laravel and flutter
 - 📫 How to reach me johanhartono@gmail.com
 
 <!---

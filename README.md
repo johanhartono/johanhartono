@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johanhartono
-- 👀 I’m interested in developing mobile apps
-- 🌱 I’m currently learning vue js,nuxt js, next js, react js,react native,Laravel and flutter
+- 👀 I’m interested in Quality Assurance Manual/Automation fields.
+- 🌱 I’m currently learning QA Tools like Selenium, TestNG, API Automation,Java
 - 📫 How to reach me johanhartono@gmail.com
 
 <!---

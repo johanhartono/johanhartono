@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @johanhartono aka IT Professional
-- 👀 I’m interested in Web Front End Engineer and SDET/Quality Assurance Manual/Automation fields.
-- 🌱 I’m currently learning QA Tools like Selenium Java, TestNG, API Testing Rest Assured
+- 👋 Hi, I’m @johanhartono aka IT Professional.
+- 👀 Former System Engineer, Software Engineer, DevOps.
+- 👀 I’m switching to Web Front End Engineer and SDET/Quality Assurance Manual/Automation fields.
+- 🌱 I’m currently learning QA Tools like Selenium Java, TestNG, API Testing Rest Assured.
 - 🌱 Also learning Front End Web Developer.
 - 📫 How to reach me johanhartono@gmail.com
 
